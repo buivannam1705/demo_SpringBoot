@@ -1,0 +1,13 @@
+package com.demo_newstringboot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DemoNewStringBootApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
